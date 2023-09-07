@@ -1,4 +1,4 @@
-# X-Do Chat 🦙
+# X-Do Chat 👁️
 
 X-Do Chat is a new open-source language model from [Xaindex.ai](https://xaindex.ai) that performs as well as closed-source models. 
 
